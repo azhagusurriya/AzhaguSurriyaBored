@@ -1,0 +1,4 @@
+Android Project coded in Java.
+Accessed the data from the online API  [Used Retrofit to make a network call and Moshi Library to convert JSON object to Java objects]
+Displayed the data in the textView.
+Stored the data in the database using Firebase. 
